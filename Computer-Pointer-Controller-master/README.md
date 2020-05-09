@@ -15,7 +15,7 @@ Computer Pointer Controller app is used to controll the movement of mouse pointe
   See this [guide](https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_linux.html) for installing openvino.
 
 #### Step 1
-Clone the repository:- https://github.com/denilDG/Computer-Pointer-Controller
+Clone the repository:- https://github.com/neelgandhi108/Iotatedge/tree/master/Computer-Pointer-Controller-master
 
 #### Step 2
 Initialize the openVINO environment:-
