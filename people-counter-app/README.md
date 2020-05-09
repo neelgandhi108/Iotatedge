@@ -28,7 +28,7 @@ Each of these use cases would be useful because...
 
 #### Step 1
 Download the pre-trained model from here:- http://download.tensorflow.org/models/object_detection/ssd_mobilenet_v2_coco_2018_03_29.tar.gz
-
+Clone the repository:- https://github.com/neelgandhi108/Iotatedge/edit/master/people-counter-app
 #### Step 2
 Extract the files:-
 ```
